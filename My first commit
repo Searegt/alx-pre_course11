@@ -1,0 +1,11 @@
+root@896cf839cf9a:/alx-pre_cource# git add.
+root@896cf839cf9a:/alx-pre_cource# git commit -m'My first commit'
+[master (root-commit) 98eef93} My first commit
+i file changed, 1 file insertion(+)
+create mode 100644README.md
+root@896cf839cf9a:/alx-pre_cource# git push
+Enumerating objects: 3, done.
+Counting objects 100% (3/3), 212 bytes | 212.00 KiB/s done.
+Total 3 (delta 3), reused o (delta 0)
+To https://github.com/{Searegt}/alx-pre_course.git
+*{new branch}    master -> master
